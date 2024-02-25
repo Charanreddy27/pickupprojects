@@ -1,0 +1,16 @@
+.whatsapp-popup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366; /* WhatsApp green color */
+    color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .whatsapp-popup:hover {
+    background-color: #128c7e; /* Darker shade on hover */
+  }
+  
