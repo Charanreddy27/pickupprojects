@@ -1,3 +1,4 @@
+import project1 from "../components/Home/imgs/project1.jpg"
 export const blogList = [
   {
     id: 1,
@@ -9,7 +10,7 @@ export const blogList = [
     authorName: 'pickupprojects',
     authorAvatar: '/assets/images/author.jpg',
     createdAt: 'June 03, 2021',
-    cover: '/assets/images/designer-1.jpg',
+    cover: project1,
   },
 //   {
 //     id: 2,
